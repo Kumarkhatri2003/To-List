@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(193, 200, 206);
+    background-color: rgb(151, 192, 228);
 }
 #task {
     padding: 10px;
@@ -15,6 +15,7 @@ h1{
 input,
 input::placeholder {
     font-weight: 700;
+    color: #000000;
 }
   #add {
     padding: 10px 20px;
